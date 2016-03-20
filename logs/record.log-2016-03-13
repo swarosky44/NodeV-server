@@ -1,0 +1,23 @@
+[2016-03-13 22:22:44.790] [INFO] console - undefined
+[2016-03-13 22:22:44.831] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:22:47.468] [INFO] console - undefined
+[2016-03-13 22:22:47.514] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:22:52.390] [INFO] console - undefined
+[2016-03-13 22:22:52.436] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:23:42.725] [INFO] console - undefined
+[2016-03-13 22:23:42.786] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:37:47.564] [INFO] app - POST /api/user
+[2016-03-13 22:41:24.424] [INFO] console - undefined
+[2016-03-13 22:41:24.534] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:41:38.071] [INFO] console - undefined
+[2016-03-13 22:41:38.117] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:41:47.526] [INFO] console - undefined
+[2016-03-13 22:41:47.567] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:41:56.669] [INFO] console - { username: 'adsfasd' }
+[2016-03-13 22:41:56.700] [INFO] app - POST /api/user
+[2016-03-13 22:45:29.936] [INFO] console - undefined
+[2016-03-13 22:45:29.979] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-13 22:45:39.298] [INFO] console - adsfads
+[2016-03-13 22:45:39.308] [INFO] app - POST /api/user
+[2016-03-13 23:47:06.219] [INFO] console - adsfads
+[2016-03-13 23:47:06.222] [INFO] app - POST /api/user

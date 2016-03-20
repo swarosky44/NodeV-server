@@ -1,0 +1,58 @@
+[2016-03-17 08:35:28.840] [INFO] console - undefined
+[2016-03-17 08:35:28.978] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-17 08:36:54.768] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:36:54.772] [WARN] console - double callback!
+[2016-03-17 08:37:24.298] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:37:24.300] [WARN] console - double callback!
+[2016-03-17 08:37:29.384] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:37:29.386] [WARN] console - double callback!
+[2016-03-17 08:37:29.580] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:37:29.581] [WARN] console - double callback!
+[2016-03-17 08:37:29.790] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:37:29.793] [WARN] console - double callback!
+[2016-03-17 08:37:52.231] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:37:52.233] [WARN] console - double callback!
+[2016-03-17 08:37:52.238] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:38:16.913] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:38:16.915] [WARN] console - double callback!
+[2016-03-17 08:38:16.918] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:38:17.187] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:38:17.191] [WARN] console - double callback!
+[2016-03-17 08:38:17.193] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:38:17.441] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:38:17.443] [WARN] console - double callback!
+[2016-03-17 08:38:17.445] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:38:17.733] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:38:17.734] [WARN] console - double callback!
+[2016-03-17 08:38:17.736] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:39:07.844] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:39:07.847] [WARN] console - double callback!
+[2016-03-17 08:39:07.849] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:39:32.458] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:39:32.459] [WARN] console - double callback!
+[2016-03-17 08:39:32.461] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:39:32.733] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:39:32.737] [WARN] console - double callback!
+[2016-03-17 08:39:32.741] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:39:32.983] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:39:32.985] [WARN] console - double callback!
+[2016-03-17 08:39:32.988] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:39:33.267] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:39:33.270] [WARN] console - double callback!
+[2016-03-17 08:39:33.272] [INFO] app - GET /api/user?username=qusiba
+[2016-03-17 08:40:23.331] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:40:23.332] [WARN] console - double callback!
+[2016-03-17 08:40:47.843] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-17 08:40:47.844] [WARN] console - double callback!
+[2016-03-17 08:44:08.386] [INFO] console - undefined
+[2016-03-17 08:44:08.472] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-17 23:42:15.024] [INFO] console - undefined
+[2016-03-17 23:42:15.163] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-17 23:42:15.194] [ERROR] error - Error caught in uncaughtException event:MongoError: connect ECONNREFUSED 127.0.0.1:27017
+[2016-03-17 23:45:18.072] [INFO] console - undefined
+[2016-03-17 23:45:18.263] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-17 23:45:18.289] [ERROR] error - Error caught in uncaughtException event:MongoError: connect ECONNREFUSED 127.0.0.1:27017
+[2016-03-17 23:48:36.725] [INFO] console - undefined
+[2016-03-17 23:48:36.806] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-17 23:50:02.168] [INFO] console - lisena 123
+[2016-03-17 23:50:02.194] [INFO] app - POST /api/regis

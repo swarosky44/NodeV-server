@@ -1,0 +1,395 @@
+[2016-03-16 09:15:09.193] [INFO] console - undefined
+[2016-03-16 09:15:09.336] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:14:59.777] [INFO] console - undefined
+[2016-03-16 21:14:59.927] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:15:03.558] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:15:03.563] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:15:21.506] [INFO] console - undefined
+[2016-03-16 21:15:21.586] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:15:32.698] [INFO] console - undefined
+[2016-03-16 21:15:32.769] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:15:35.571] [INFO] console - undefined
+[2016-03-16 21:15:35.654] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:15:49.885] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:15:49.891] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:16:53.037] [INFO] console - undefined
+[2016-03-16 21:16:53.113] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:16:59.268] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:16:59.273] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:17:35.251] [INFO] console - undefined
+[2016-03-16 21:17:35.323] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:17:40.386] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:17:40.391] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:18:52.559] [INFO] console - undefined
+[2016-03-16 21:18:52.627] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:20:07.466] [INFO] console - undefined
+[2016-03-16 21:20:07.544] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:20:11.999] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:20:12.004] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:24:02.822] [INFO] app - GET /
+[2016-03-16 21:24:02.865] [INFO] app - GET /static/app.6978f3d05df859dfde11391153d95fdd.css
+[2016-03-16 21:24:02.876] [INFO] app - GET /static/app.2aa00e70b69495d0956f.js
+[2016-03-16 21:24:14.629] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:24:14.631] [ERROR] app - GET /api/user?username=123
+[2016-03-16 21:24:33.308] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:24:33.309] [ERROR] app - GET /api/starRepo?username=123
+[2016-03-16 21:24:37.330] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:24:37.331] [ERROR] app - GET /api/starRepo?username=123
+[2016-03-16 21:24:37.402] [INFO] app - GET /favicon.ico
+[2016-03-16 21:24:43.785] [WARN] app - GET /
+[2016-03-16 21:24:43.822] [WARN] app - GET /static/app.6978f3d05df859dfde11391153d95fdd.css
+[2016-03-16 21:24:43.824] [WARN] app - GET /static/app.2aa00e70b69495d0956f.js
+[2016-03-16 21:24:54.814] [ERROR] console - ReferenceError: error is not defined
+    at app.js:80:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:24:54.817] [ERROR] app - POST /api/user
+[2016-03-16 21:25:37.704] [INFO] console - undefined
+[2016-03-16 21:25:37.784] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:25:54.953] [ERROR] console - ReferenceError: error is not defined
+    at app.js:81:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:25:54.963] [ERROR] app - POST /api/user
+[2016-03-16 21:25:59.052] [ERROR] console - ReferenceError: error is not defined
+    at app.js:81:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:25:59.053] [ERROR] app - POST /api/user
+[2016-03-16 21:26:05.026] [ERROR] console - ReferenceError: error is not defined
+    at app.js:81:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:26:05.027] [ERROR] app - POST /api/user
+[2016-03-16 21:26:19.040] [ERROR] console - ReferenceError: error is not defined
+    at app.js:81:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:26:19.042] [ERROR] app - GET /api/user?username=123
+[2016-03-16 21:26:42.403] [INFO] console - undefined
+[2016-03-16 21:26:42.480] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:26:52.907] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:26:52.913] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:30:02.207] [INFO] console - undefined
+[2016-03-16 21:30:02.277] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:30:12.839] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:30:12.845] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:30:25.045] [WARN] app - GET /
+[2016-03-16 21:30:25.086] [WARN] app - GET /static/app.6978f3d05df859dfde11391153d95fdd.css
+[2016-03-16 21:30:25.089] [WARN] app - GET /static/app.2aa00e70b69495d0956f.js
+[2016-03-16 21:31:48.852] [INFO] console - undefined
+[2016-03-16 21:31:48.980] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:31:52.508] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:31:52.513] [ERROR] app - GET /api/test
+[2016-03-16 21:32:06.296] [INFO] console - undefined
+[2016-03-16 21:32:06.372] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:35:10.388] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:35:10.394] [ERROR] app - GET /api/user?username=qusiba
+[2016-03-16 21:36:57.061] [INFO] console - undefined
+[2016-03-16 21:36:57.137] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:37:05.758] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+[2016-03-16 21:37:05.765] [ERROR] app - GET /api/user?username=swarosky44
+[2016-03-16 21:37:14.171] [INFO] console - undefined
+[2016-03-16 21:37:14.248] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:38:00.791] [INFO] console - undefined
+[2016-03-16 21:38:00.871] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 21:38:10.131] [INFO] app - GET /api/user?username=swarosky44
+[2016-03-16 21:38:13.167] [INFO] app - GET /api/starRepo?username=swarosky44
+[2016-03-16 22:29:29.698] [INFO] console - undefined
+[2016-03-16 22:29:29.775] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 22:29:41.094] [INFO] app - POST /api/regis
+[2016-03-16 22:30:05.394] [INFO] console - undefined
+[2016-03-16 22:30:05.468] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-16 22:30:07.995] [INFO] console - { username: '', pwd: '', pwdr: '' }
+[2016-03-16 22:30:08.019] [INFO] app - POST /api/regis
+[2016-03-16 22:30:28.435] [INFO] console - { username: 'adf', pwd: 'dasf', pwdr: 'adsf' }
+[2016-03-16 22:30:28.439] [INFO] app - POST /api/regis
+[2016-03-16 22:52:55.094] [INFO] app - GET /api/starRepo?username=swarosky44
+[2016-03-16 22:52:59.922] [INFO] console - { username: '', pwd: 'adsf', pwdr: 'adsf' }
+[2016-03-16 22:52:59.926] [INFO] app - POST /api/regis
+[2016-03-16 23:03:14.884] [WARN] app - GET /api/starRepo?username=swarosky44
+[2016-03-16 23:03:32.280] [INFO] console - { username: '', pwd: '123', pwdr: '123' }
+[2016-03-16 23:03:32.282] [INFO] app - POST /api/regis
+[2016-03-16 23:53:40.244] [WARN] app - GET /api/starRepo?username=swarosky44
+[2016-03-16 23:53:49.396] [INFO] console - { username: '', pwd: '', pwdr: '' }
+[2016-03-16 23:53:49.399] [INFO] app - POST /api/regis
+[2016-03-16 23:53:53.280] [INFO] console - { username: '', pwd: '', pwdr: '' }
+[2016-03-16 23:53:53.285] [INFO] app - POST /api/regis
+[2016-03-16 23:53:57.822] [WARN] app - GET /api/starRepo?username=swarosky44
+[2016-03-16 23:54:00.112] [INFO] console - { username: '', pwd: '', pwdr: '' }
+[2016-03-16 23:54:00.117] [INFO] app - POST /api/regis
+[2016-03-16 23:54:24.302] [INFO] console - { username: '', pwd: '', pwdr: '' }
+[2016-03-16 23:54:24.305] [INFO] app - POST /api/regis

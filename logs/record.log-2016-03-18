@@ -1,0 +1,1125 @@
+[2016-03-18 00:14:45.217] [INFO] console - undefined
+[2016-03-18 00:14:45.315] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:14:47.118] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:14:54.180] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:15:05.534] [INFO] console - undefined
+[2016-03-18 00:15:05.614] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:15:46.324] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:17:02.116] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:17:28.187] [INFO] console - undefined
+[2016-03-18 00:17:28.328] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:17:29.084] [INFO] console - come in
+[2016-03-18 00:17:29.092] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:19:13.911] [INFO] console - undefined
+[2016-03-18 00:19:14.029] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:19:19.208] [INFO] console - lisen
+[2016-03-18 00:19:19.215] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:21:02.836] [INFO] console - undefined
+[2016-03-18 00:21:02.906] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:21:04.923] [INFO] console - undefined
+[2016-03-18 00:21:05.028] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:23:23.945] [INFO] console - lisen
+[2016-03-18 00:23:23.953] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:24:44.845] [INFO] console - undefined
+[2016-03-18 00:24:44.946] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:24:52.877] [INFO] console - undefined
+[2016-03-18 00:24:52.980] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:25:02.524] [INFO] console - lisen
+[2016-03-18 00:25:02.532] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:26:10.009] [INFO] console - undefined
+[2016-03-18 00:26:10.089] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:26:11.710] [INFO] console - { s: 
+   { pkFactory: 
+      { [Function: ObjectID]
+        index: 9841002,
+        createPk: [Function: createPk],
+        createFromTime: [Function: createFromTime],
+        createFromHexString: [Function: createFromHexString],
+        isValid: [Function: isValid],
+        ObjectID: [Circular],
+        ObjectId: [Circular] },
+     db: 
+      EventEmitter {
+        domain: null,
+        _events: {},
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        s: [Object],
+        serverConfig: [Getter],
+        bufferMaxEntries: [Getter],
+        databaseName: [Getter],
+        options: [Getter],
+        native_parser: [Getter],
+        slaveOk: [Getter],
+        writeConcern: [Getter] },
+     topology: 
+      EventEmitter {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 7,
+        _maxListeners: undefined,
+        s: [Object],
+        bson: [Getter],
+        isMasterDoc: [Getter],
+        poolSize: [Getter],
+        autoReconnect: [Getter],
+        host: [Getter],
+        port: [Getter] },
+     dbName: 'nodeV',
+     options: { promiseLibrary: [Function: Promise], readConcern: undefined },
+     namespace: 'nodeV.users',
+     readPreference: null,
+     raw: undefined,
+     slaveOk: false,
+     serializeFunctions: undefined,
+     internalHint: null,
+     collectionHint: null,
+     name: 'users',
+     promiseLibrary: [Function: Promise],
+     readConcern: undefined } }
+[2016-03-18 00:26:11.728] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:26:44.897] [INFO] console - undefined
+[2016-03-18 00:26:44.989] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:26:48.037] [INFO] console - undefined
+[2016-03-18 00:26:48.116] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:27:22.498] [INFO] console - undefined
+[2016-03-18 00:27:22.585] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:27:42.847] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:31:09.195] [INFO] console - undefined
+[2016-03-18 00:31:09.320] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:31:15.213] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:31:15.227] [ERROR] app - POST /api/regis
+[2016-03-18 00:31:35.232] [INFO] console - undefined
+[2016-03-18 00:31:35.332] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:31:48.314] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:31:48.335] [ERROR] app - POST /api/regis
+[2016-03-18 00:32:21.243] [INFO] console - undefined
+[2016-03-18 00:32:21.349] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:32:29.180] [INFO] console - undefined
+[2016-03-18 00:32:29.268] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:32:37.362] [INFO] console - undefined
+[2016-03-18 00:32:37.457] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:35:32.778] [INFO] console - undefined
+[2016-03-18 00:35:32.873] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:35:39.232] [INFO] console - undefined
+[2016-03-18 00:35:39.338] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:35:43.513] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:35:43.523] [ERROR] app - POST /api/regis
+[2016-03-18 00:38:23.242] [INFO] console - undefined
+[2016-03-18 00:38:23.322] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:38:29.337] [INFO] console - undefined
+[2016-03-18 00:38:29.439] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:38:37.799] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:38:37.808] [ERROR] app - POST /api/regis
+[2016-03-18 00:39:19.887] [INFO] console - undefined
+[2016-03-18 00:39:19.976] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:39:27.568] [INFO] console - undefined
+[2016-03-18 00:39:27.651] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:40:04.810] [INFO] console - undefined
+[2016-03-18 00:40:04.914] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:40:06.756] [INFO] console - come in
+[2016-03-18 00:40:06.773] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:40:06.783] [ERROR] app - POST /api/regis
+[2016-03-18 00:40:30.974] [INFO] console - undefined
+[2016-03-18 00:40:31.062] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:40:31.172] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:40:31.198] [ERROR] app - POST /api/regis
+[2016-03-18 00:43:37.305] [INFO] console - undefined
+[2016-03-18 00:43:37.394] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:43:38.902] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:43:38.912] [ERROR] app - POST /api/regis
+[2016-03-18 00:43:56.950] [INFO] console - undefined
+[2016-03-18 00:43:57.007] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:44:01.711] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:44:01.722] [ERROR] app - POST /api/regis
+[2016-03-18 00:44:28.617] [INFO] console - undefined
+[2016-03-18 00:44:28.688] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:44:31.852] [INFO] console - undefined
+[2016-03-18 00:44:31.948] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:44:37.670] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:44:37.679] [ERROR] app - POST /api/regis
+[2016-03-18 00:45:48.369] [INFO] console - undefined
+[2016-03-18 00:45:48.455] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:45:58.686] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:45:58.696] [ERROR] app - POST /api/regis
+[2016-03-18 00:46:49.839] [INFO] console - undefined
+[2016-03-18 00:46:49.921] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:48:52.090] [INFO] console - undefined
+[2016-03-18 00:48:52.163] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:48:55.890] [INFO] console - undefined
+[2016-03-18 00:48:55.965] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:49:20.096] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:49:20.106] [ERROR] app - POST /api/regis
+[2016-03-18 00:51:16.139] [INFO] console - undefined
+[2016-03-18 00:51:16.226] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:52:01.002] [INFO] console - undefined
+[2016-03-18 00:52:01.079] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:52:30.615] [INFO] console - undefined
+[2016-03-18 00:52:30.691] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:54:14.968] [INFO] console - undefined
+[2016-03-18 00:54:15.079] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:55:49.424] [INFO] console - undefined
+[2016-03-18 00:55:49.523] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:56:00.518] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:56:00.530] [ERROR] app - POST /api/regis
+[2016-03-18 00:56:00.538] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:56:10.072] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:56:10.078] [ERROR] app - POST /api/regis
+[2016-03-18 00:56:10.080] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 00:59:46.263] [INFO] console - undefined
+[2016-03-18 00:59:46.355] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 00:59:50.933] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 00:59:50.945] [ERROR] app - POST /api/regis
+[2016-03-18 00:59:50.950] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'name' of undefined
+[2016-03-18 01:01:16.811] [INFO] console - undefined
+[2016-03-18 01:01:16.896] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:03:25.585] [INFO] console - undefined
+[2016-03-18 01:03:25.680] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:03:30.394] [INFO] console - undefined
+[2016-03-18 01:03:30.468] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:03:43.327] [INFO] console - undefined
+[2016-03-18 01:03:43.467] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:04:23.388] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:04:23.397] [ERROR] app - POST /api/regis
+[2016-03-18 01:05:51.133] [INFO] console - undefined
+[2016-03-18 01:05:51.216] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:06:27.920] [INFO] console - undefined
+[2016-03-18 01:06:27.990] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:06:38.692] [INFO] console - undefined
+[2016-03-18 01:06:38.766] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:06:50.827] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:06:50.838] [ERROR] app - POST /api/regis
+[2016-03-18 01:09:29.347] [INFO] console - undefined
+[2016-03-18 01:09:29.415] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:10:05.470] [INFO] console - undefined
+[2016-03-18 01:10:05.567] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:11:00.929] [INFO] console - undefined
+[2016-03-18 01:11:01.020] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:11:15.343] [INFO] console - undefined
+[2016-03-18 01:11:15.471] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:11:15.526] [WARN] console - [31mUnhandled rejection MongoError: db already exists with different case already have: [nodeV] trying to create [NodeV]
+    at Function.MongoError.create (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/error.js:31:11)
+    at /Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:1013:80
+    at commandCallback (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:946:9)
+    at [object Object].Callbacks.emit (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:116:3)
+    at [object Object].messageHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:289:23)
+    at Socket.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/connection/connection.js:285:22)
+    at emitOne (events.js:90:13)
+    at Socket.emit (events.js:182:7)
+    at readableAddChunk (_stream_readable.js:147:16)
+    at Socket.Readable.push (_stream_readable.js:111:10)
+    at TCP.onread (net.js:525:20)[0m
+
+[2016-03-18 01:11:43.697] [INFO] console - undefined
+[2016-03-18 01:11:43.790] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:11:43.845] [WARN] console - [31mUnhandled rejection MongoError: db already exists with different case already have: [nodeV] trying to create [NodeV]
+    at Function.MongoError.create (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/error.js:31:11)
+    at /Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:1013:80
+    at commandCallback (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:946:9)
+    at [object Object].Callbacks.emit (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:116:3)
+    at [object Object].messageHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:289:23)
+    at Socket.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/connection/connection.js:285:22)
+    at emitOne (events.js:90:13)
+    at Socket.emit (events.js:182:7)
+    at readableAddChunk (_stream_readable.js:147:16)
+    at Socket.Readable.push (_stream_readable.js:111:10)
+    at TCP.onread (net.js:525:20)[0m
+
+[2016-03-18 01:11:49.186] [INFO] console - undefined
+[2016-03-18 01:11:49.255] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:11:49.313] [WARN] console - [31mUnhandled rejection MongoError: db already exists with different case already have: [nodeV] trying to create [NodeV]
+    at Function.MongoError.create (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/error.js:31:11)
+    at /Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:1013:80
+    at commandCallback (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:946:9)
+    at [object Object].Callbacks.emit (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:116:3)
+    at [object Object].messageHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:289:23)
+    at Socket.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/connection/connection.js:285:22)
+    at emitOne (events.js:90:13)
+    at Socket.emit (events.js:182:7)
+    at readableAddChunk (_stream_readable.js:147:16)
+    at Socket.Readable.push (_stream_readable.js:111:10)
+    at TCP.onread (net.js:525:20)[0m
+
+[2016-03-18 01:13:13.805] [INFO] console - undefined
+[2016-03-18 01:13:13.894] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:13:53.034] [INFO] console - undefined
+[2016-03-18 01:13:53.202] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:13:59.935] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:13:59.946] [ERROR] app - POST /api/regis
+[2016-03-18 01:14:03.028] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:14:03.033] [ERROR] app - POST /api/regis
+[2016-03-18 01:14:05.491] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:14:05.493] [ERROR] app - POST /api/regis
+[2016-03-18 01:14:30.361] [INFO] console - undefined
+[2016-03-18 01:14:30.442] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:14:36.373] [INFO] console - User { name: undefined, pwd: '123' }
+[2016-03-18 01:14:36.404] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:14:36.413] [ERROR] app - POST /api/regis
+[2016-03-18 01:15:08.192] [INFO] console - undefined
+[2016-03-18 01:15:08.271] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:15:28.462] [INFO] console - undefined
+[2016-03-18 01:15:28.572] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:15:39.582] [INFO] console - undefined
+[2016-03-18 01:15:39.680] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:15:43.925] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:15:43.955] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:15:43.964] [ERROR] app - POST /api/regis
+[2016-03-18 01:19:33.475] [INFO] console - undefined
+[2016-03-18 01:19:33.591] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:19:57.484] [INFO] console - undefined
+[2016-03-18 01:19:57.560] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:20:00.878] [INFO] console - undefined
+[2016-03-18 01:20:01.025] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:20:02.713] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:20:02.742] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:20:02.751] [ERROR] app - POST /api/regis
+[2016-03-18 01:21:00.459] [INFO] console - undefined
+[2016-03-18 01:21:00.594] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:21:03.202] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:21:03.231] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:21:03.240] [ERROR] app - POST /api/regis
+[2016-03-18 01:21:17.341] [INFO] console - undefined
+[2016-03-18 01:21:17.427] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:21:17.622] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:21:17.666] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:21:17.676] [ERROR] app - POST /api/regis
+[2016-03-18 01:21:40.123] [INFO] console - undefined
+[2016-03-18 01:21:40.222] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:21:48.288] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:21:48.319] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:21:48.328] [ERROR] app - POST /api/regis
+[2016-03-18 01:22:01.006] [INFO] console - undefined
+[2016-03-18 01:22:01.061] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:22:46.136] [INFO] console - undefined
+[2016-03-18 01:22:46.242] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:22:46.847] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:22:46.880] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:22:46.905] [ERROR] app - POST /api/regis
+[2016-03-18 01:23:27.752] [INFO] console - undefined
+[2016-03-18 01:23:27.847] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:23:34.670] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:23:34.699] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:23:34.709] [ERROR] app - POST /api/regis
+[2016-03-18 01:24:03.563] [INFO] console - undefined
+[2016-03-18 01:24:03.648] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:24:08.023] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:24:08.052] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:24:08.061] [ERROR] app - POST /api/regis
+[2016-03-18 01:24:31.935] [INFO] console - undefined
+[2016-03-18 01:24:32.028] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:24:40.794] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:24:40.823] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:24:40.831] [ERROR] app - POST /api/regis
+[2016-03-18 01:25:22.123] [INFO] console - undefined
+[2016-03-18 01:25:22.219] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:25:46.286] [INFO] console - undefined
+[2016-03-18 01:25:46.385] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:25:49.940] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:25:49.949] [ERROR] app - POST /api/regis
+[2016-03-18 01:26:04.816] [INFO] console - undefined
+[2016-03-18 01:26:04.895] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:26:12.035] [INFO] console - undefined
+[2016-03-18 01:26:12.124] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:26:19.463] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:26:19.471] [ERROR] app - POST /api/regis
+[2016-03-18 01:28:38.056] [INFO] console - undefined
+[2016-03-18 01:28:38.137] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:28:41.768] [INFO] console - undefined
+[2016-03-18 01:28:41.844] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:28:58.058] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:28:58.069] [ERROR] app - POST /api/regis
+[2016-03-18 01:29:16.330] [INFO] console - undefined
+[2016-03-18 01:29:16.428] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:29:17.409] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:29:17.428] [ERROR] app - POST /api/regis
+[2016-03-18 01:30:05.157] [INFO] console - undefined
+[2016-03-18 01:30:05.278] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:30:09.787] [INFO] console - lisen 123
+[2016-03-18 01:30:09.804] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:30:09.813] [ERROR] app - POST /api/regis
+[2016-03-18 01:30:28.281] [INFO] console - undefined
+[2016-03-18 01:30:28.398] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:30:31.919] [INFO] console - lisen 123
+[2016-03-18 01:30:31.919] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:30:32.040] [INFO] app - POST /api/regis
+[2016-03-18 01:31:51.273] [INFO] console - undefined
+[2016-03-18 01:31:51.390] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:31:51.957] [INFO] console - lisen 123
+[2016-03-18 01:31:51.958] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:31:51.994] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:31:52.009] [ERROR] app - POST /api/regis
+[2016-03-18 01:32:12.823] [INFO] console - undefined
+[2016-03-18 01:32:12.898] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:32:15.394] [INFO] console - undefined
+[2016-03-18 01:32:15.481] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:32:19.715] [INFO] console - undefined
+[2016-03-18 01:32:19.821] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:32:25.515] [INFO] console - lisen 123
+[2016-03-18 01:32:25.515] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:32:25.552] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:32:25.563] [ERROR] app - POST /api/regis
+[2016-03-18 01:33:08.435] [INFO] console - undefined
+[2016-03-18 01:33:08.525] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:33:19.442] [INFO] console - lisen 123
+[2016-03-18 01:33:19.443] [INFO] console - User { username: 'lisen', pwd: '123' }
+[2016-03-18 01:33:19.471] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:33:19.481] [ERROR] app - POST /api/regis
+[2016-03-18 01:33:35.182] [INFO] console - undefined
+[2016-03-18 01:33:35.268] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:34:44.282] [INFO] console - undefined
+[2016-03-18 01:34:44.368] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:34:48.517] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:34:48.526] [ERROR] app - POST /api/regis
+[2016-03-18 01:35:44.954] [INFO] console - undefined
+[2016-03-18 01:35:45.046] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:35:52.118] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:35:52.129] [ERROR] app - POST /api/regis
+[2016-03-18 01:36:19.705] [INFO] console - undefined
+[2016-03-18 01:36:19.825] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:36:28.688] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:36:28.699] [ERROR] app - POST /api/regis
+[2016-03-18 01:36:37.017] [INFO] console - undefined
+[2016-03-18 01:36:37.090] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:36:39.197] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:36:39.208] [ERROR] app - POST /api/regis
+[2016-03-18 01:36:58.660] [INFO] console - undefined
+[2016-03-18 01:36:58.737] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:37:03.826] [INFO] console - undefined
+[2016-03-18 01:37:03.923] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:37:07.772] [INFO] console - undefined
+[2016-03-18 01:37:07.871] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:37:13.190] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:37:13.199] [ERROR] app - POST /api/regis
+[2016-03-18 01:37:20.669] [INFO] console - undefined
+[2016-03-18 01:37:20.782] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:37:33.023] [INFO] console - undefined
+[2016-03-18 01:37:33.109] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:38:15.015] [INFO] console - undefined
+[2016-03-18 01:38:15.097] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:38:23.008] [INFO] app - POST /api/regis
+[2016-03-18 01:38:40.273] [INFO] console - undefined
+[2016-03-18 01:38:40.352] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:38:44.225] [INFO] console - undefined
+[2016-03-18 01:38:44.314] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:38:59.992] [INFO] console - undefined
+[2016-03-18 01:39:00.071] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:39:05.549] [INFO] app - POST /api/regis
+[2016-03-18 01:41:24.076] [INFO] console - undefined
+[2016-03-18 01:41:24.162] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:46:01.896] [INFO] console - undefined
+[2016-03-18 01:46:01.983] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:46:32.846] [INFO] console - undefined
+[2016-03-18 01:46:32.954] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:46:36.208] [INFO] console - undefined
+[2016-03-18 01:46:36.338] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:46:42.870] [INFO] app - POST /api/regis
+[2016-03-18 01:47:04.279] [INFO] console - undefined
+[2016-03-18 01:47:04.374] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:47:04.684] [INFO] app - POST /api/regis
+[2016-03-18 01:47:44.487] [INFO] console - undefined
+[2016-03-18 01:47:44.570] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:47:51.545] [INFO] app - POST /api/regis
+[2016-03-18 01:48:20.382] [INFO] console - undefined
+[2016-03-18 01:48:20.469] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:48:20.577] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:48:20.591] [ERROR] app - POST /api/regis
+[2016-03-18 01:48:38.827] [INFO] console - undefined
+[2016-03-18 01:48:38.940] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:48:40.928] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:48:40.938] [ERROR] app - POST /api/regis
+[2016-03-18 01:49:24.107] [INFO] console - undefined
+[2016-03-18 01:49:24.190] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:49:28.751] [INFO] console - undefined
+[2016-03-18 01:49:28.840] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:49:29.067] [INFO] app - POST /api/regis
+[2016-03-18 01:49:36.592] [INFO] console - undefined
+[2016-03-18 01:49:36.677] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:49:36.804] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 01:49:36.831] [ERROR] app - POST /api/regis
+[2016-03-18 01:49:44.377] [INFO] console - undefined
+[2016-03-18 01:49:44.461] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:49:44.730] [INFO] app - POST /api/regis
+[2016-03-18 01:54:23.315] [INFO] console - undefined
+[2016-03-18 01:54:23.395] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:54:25.105] [INFO] console - undefined
+[2016-03-18 01:54:25.194] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 01:54:29.366] [INFO] app - POST /api/regis
+[2016-03-18 09:00:10.242] [INFO] app - POST /api/regis
+[2016-03-18 09:00:48.577] [INFO] console - undefined
+[2016-03-18 09:00:48.727] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:00:53.551] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 09:00:53.560] [ERROR] app - POST /api/regis
+[2016-03-18 09:01:09.823] [INFO] console - undefined
+[2016-03-18 09:01:09.893] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:01:10.076] [INFO] app - POST /api/regis
+[2016-03-18 09:01:48.367] [INFO] console - undefined
+[2016-03-18 09:01:48.445] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:01:58.284] [INFO] console - undefined
+[2016-03-18 09:01:58.363] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:02:02.470] [INFO] console - undefined
+[2016-03-18 09:02:02.546] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:02:30.364] [INFO] console - undefined
+[2016-03-18 09:02:30.458] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:02:30.613] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-18 09:02:30.628] [ERROR] app - POST /api/regis
+[2016-03-18 09:02:46.247] [INFO] console - undefined
+[2016-03-18 09:02:46.317] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-18 09:02:46.530] [INFO] app - POST /api/regis

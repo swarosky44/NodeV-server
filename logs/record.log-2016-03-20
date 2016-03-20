@@ -1,0 +1,494 @@
+[2016-03-20 13:06:14.661] [INFO] console - undefined
+[2016-03-20 13:06:14.794] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:06:30.487] [INFO] app - GET /api/user?username=qusiba
+[2016-03-20 13:06:34.533] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 13:06:45.774] [INFO] app - POST /api/regis
+[2016-03-20 13:09:57.473] [INFO] app - POST /api/regis
+[2016-03-20 13:13:06.203] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 13:18:25.860] [INFO] console - undefined
+[2016-03-20 13:18:25.938] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:19:02.439] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle [as handle_request] (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:97:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:312:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-20 13:19:02.447] [ERROR] app - POST /api/login
+[2016-03-20 13:20:26.960] [INFO] console - undefined
+[2016-03-20 13:20:27.040] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:20:58.002] [INFO] console - undefined
+[2016-03-20 13:20:58.078] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:21:00.289] [INFO] console - undefined
+[2016-03-20 13:21:00.372] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:21:12.695] [INFO] console - { name: 'dndc', password: '123' }
+[2016-03-20 13:23:00.856] [INFO] console - { name: 'dndc', password: '123' }
+[2016-03-20 13:23:25.761] [INFO] console - undefined
+[2016-03-20 13:23:25.852] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:23:26.964] [INFO] console - undefined
+[2016-03-20 13:23:27.049] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:24:08.181] [INFO] console - undefined
+[2016-03-20 13:24:08.269] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:24:28.957] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-20 13:24:28.974] [ERROR] app - POST /api/login
+[2016-03-20 13:26:43.369] [INFO] console - undefined
+[2016-03-20 13:26:43.464] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:26:56.020] [INFO] console - { _id: 56ee2fe5f2451c7d443e2acd, name: 'dndc', password: '123' }
+[2016-03-20 13:26:56.046] [INFO] app - POST /api/login
+[2016-03-20 13:28:05.481] [INFO] console - undefined
+[2016-03-20 13:28:05.568] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 13:28:15.542] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 13:28:15.549] [INFO] app - POST /api/login
+[2016-03-20 13:28:34.982] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 13:28:34.985] [INFO] app - POST /api/login
+[2016-03-20 13:28:57.841] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 13:28:57.844] [INFO] app - POST /api/login
+[2016-03-20 13:29:16.573] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 13:29:16.575] [INFO] app - POST /api/login
+[2016-03-20 13:29:59.142] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 13:29:59.146] [INFO] app - POST /api/login
+[2016-03-20 13:31:21.959] [INFO] app - POST /api/login
+[2016-03-20 13:33:27.858] [INFO] app - POST /api/login
+[2016-03-20 13:33:43.482] [INFO] app - POST /api/login
+[2016-03-20 13:34:44.942] [WARN] app - GET /api/user?username=qusiba
+[2016-03-20 13:34:48.726] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 21:45:46.052] [INFO] console - undefined
+[2016-03-20 21:45:46.192] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:47:32.987] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 21:47:35.421] [INFO] app - POST /api/login
+[2016-03-20 21:47:37.205] [INFO] app - GET /api/logout
+[2016-03-20 21:47:49.167] [INFO] app - POST /api/regis
+[2016-03-20 21:47:51.473] [WARN] app - GET /api/logout
+[2016-03-20 21:47:55.728] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:47:55.730] [INFO] app - POST /api/login
+[2016-03-20 21:47:56.818] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:47:56.821] [INFO] app - POST /api/login
+[2016-03-20 21:48:01.555] [INFO] app - POST /api/login
+[2016-03-20 21:48:29.994] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 21:48:38.672] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:48:38.674] [INFO] app - POST /api/login
+[2016-03-20 21:48:39.351] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:48:39.353] [INFO] app - POST /api/login
+[2016-03-20 21:48:39.533] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:48:39.536] [INFO] app - POST /api/login
+[2016-03-20 21:48:42.314] [INFO] app - POST /api/login
+[2016-03-20 21:48:43.960] [WARN] app - GET /api/logout
+[2016-03-20 21:48:51.479] [INFO] app - POST /api/regis
+[2016-03-20 21:48:55.263] [WARN] app - GET /api/logout
+[2016-03-20 21:49:06.075] [ERROR] console - (node) warning: possible EventEmitter memory leak detected. 11 reconnect listeners added. Use emitter.setMaxListeners() to increase limit.
+[2016-03-20 21:49:06.086] [ERROR] console - Trace
+    at [object Object].addListener (events.js:252:17)
+    at [object Object].Server.connect (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/server.js:306:17)
+    at open (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:217:19)
+    at [object Object].Db.open (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:240:44)
+    at user.js:45:15
+    at fn (/Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:746:34)
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:1213:16
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:166:37
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:706:43
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:167:37
+    at Object.async.waterfall (/Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:710:44)
+    at Function.User.get (user.js:43:9)
+    at api.js:34:8
+    at Layer.handle [as handle_request] (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/route.js:112:3)
+[2016-03-20 21:49:06.089] [ERROR] console - (node) warning: possible EventEmitter memory leak detected. 11 destroy listeners added. Use emitter.setMaxListeners() to increase limit.
+[2016-03-20 21:49:06.092] [ERROR] console - Trace
+    at [object Object].addListener (events.js:252:17)
+    at [object Object].once (events.js:278:8)
+    at [object Object].connectHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/server.js:279:19)
+    at [object Object].g (events.js:273:16)
+    at emitOne (events.js:90:13)
+    at [object Object].emit (events.js:182:7)
+    at /Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:492:23
+    at commandCallback (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:946:9)
+    at [object Object].Callbacks.emit (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:116:3)
+    at [object Object].messageHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:289:23)
+    at Socket.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/connection/connection.js:285:22)
+    at emitOne (events.js:90:13)
+    at Socket.emit (events.js:182:7)
+    at readableAddChunk (_stream_readable.js:147:16)
+    at Socket.Readable.push (_stream_readable.js:111:10)
+    at TCP.onread (net.js:525:20)
+[2016-03-20 21:49:06.095] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:06.096] [INFO] app - POST /api/login
+[2016-03-20 21:49:06.651] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:06.653] [INFO] app - POST /api/login
+[2016-03-20 21:49:06.850] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:06.852] [INFO] app - POST /api/login
+[2016-03-20 21:49:07.034] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:07.037] [INFO] app - POST /api/login
+[2016-03-20 21:49:07.228] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:07.233] [INFO] app - POST /api/login
+[2016-03-20 21:49:07.418] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:07.421] [INFO] app - POST /api/login
+[2016-03-20 21:49:21.839] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:21.842] [INFO] app - POST /api/login
+[2016-03-20 21:49:44.707] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:49:44.708] [INFO] app - POST /api/login
+[2016-03-20 21:50:56.590] [INFO] app - POST /api/login
+[2016-03-20 21:50:57.974] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 21:50:58.467] [WARN] app - GET /api/logout
+[2016-03-20 21:51:10.247] [INFO] console - undefined
+[2016-03-20 21:51:10.385] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:51:16.519] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:51:16.526] [INFO] app - POST /api/login
+[2016-03-20 21:52:49.822] [WARN] app - GET /api/logout
+[2016-03-20 21:52:55.324] [INFO] app - POST /api/login
+[2016-03-20 21:53:20.443] [INFO] console - undefined
+[2016-03-20 21:53:20.546] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:53:23.424] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 21:52:55 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 21:53:23.457] [WARN] app - GET /api/logout
+[2016-03-20 21:53:55.016] [INFO] console - undefined
+[2016-03-20 21:53:55.094] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:53:56.794] [INFO] console - undefined
+[2016-03-20 21:53:56.882] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:54:00.422] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 21:53:23 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: { _id: 56ee2fe5f2451c7d443e2acd, name: 'dndc', password: '123' } }
+[2016-03-20 21:54:00.451] [INFO] app - POST /api/login
+[2016-03-20 21:54:23.192] [INFO] console - undefined
+[2016-03-20 21:54:23.299] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:54:26.423] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 21:54:00 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 21:54:26.451] [WARN] app - GET /api/logout
+[2016-03-20 21:54:35.237] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 21:54:35 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: { _id: 56eaed98f4675f9f073f8428, name: 'lisen', password: '123' } }
+[2016-03-20 21:54:35.241] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:54:35.244] [INFO] app - POST /api/login
+[2016-03-20 21:54:57.010] [INFO] console - undefined
+[2016-03-20 21:54:57.103] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:55:00.326] [INFO] console - { _id: 56eaed98f4675f9f073f8428, name: 'lisen', password: '123' }
+[2016-03-20 21:55:00.350] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 21:55:00 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: { _id: 56eaed98f4675f9f073f8428, name: 'lisen', password: '123' } }
+[2016-03-20 21:55:00.354] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:55:00.363] [INFO] app - POST /api/login
+[2016-03-20 21:55:13.122] [INFO] console - undefined
+[2016-03-20 21:55:13.270] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:55:16.386] [INFO] console - { _id: 56eaed98f4675f9f073f8428, name: 'lisen', password: '123' }
+[2016-03-20 21:55:16.405] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 21:55:16 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: { _id: 56eaed98f4675f9f073f8428, name: 'lisen', password: '123' } }
+[2016-03-20 21:55:16.408] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:55:16.415] [INFO] app - POST /api/login
+[2016-03-20 21:55:31.807] [INFO] console - undefined
+[2016-03-20 21:55:31.901] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:55:35.543] [INFO] console - undefined
+[2016-03-20 21:55:35.644] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:55:43.468] [INFO] console - undefined
+[2016-03-20 21:55:43.574] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:55:46.192] [INFO] console - { _id: 56eaed98f4675f9f073f8428, name: 'lisen', password: '123' }
+[2016-03-20 21:55:46.213] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 21:55:46.220] [INFO] app - POST /api/login
+[2016-03-20 21:56:16.285] [INFO] console - undefined
+[2016-03-20 21:56:16.371] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 21:58:54.502] [INFO] console - undefined
+[2016-03-20 21:58:54.590] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:00:36.886] [INFO] app - POST /api/regis
+[2016-03-20 22:00:56.588] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:00:36 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:00:56.608] [WARN] app - GET /api/logout
+[2016-03-20 22:01:03.976] [INFO] app - POST /api/login
+[2016-03-20 22:01:08.775] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:01:03 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:01:08.778] [WARN] app - GET /api/logout
+[2016-03-20 22:01:16.792] [INFO] app - POST /api/regis
+[2016-03-20 22:01:16.796] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:01:31.807] [INFO] app - POST /api/regis
+[2016-03-20 22:01:31.811] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:01:32.343] [INFO] app - POST /api/regis
+[2016-03-20 22:01:32.351] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:01:32.851] [ERROR] console - (node) warning: possible EventEmitter memory leak detected. 11 reconnect listeners added. Use emitter.setMaxListeners() to increase limit.
+[2016-03-20 22:01:32.873] [ERROR] console - Trace
+    at [object Object].addListener (events.js:252:17)
+    at [object Object].Server.connect (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/server.js:306:17)
+    at open (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:217:19)
+    at [object Object].Db.open (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/db.js:240:44)
+    at user.js:21:15
+    at fn (/Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:746:34)
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:1213:16
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:166:37
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:706:43
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:167:37
+    at Object.async.waterfall (/Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:710:44)
+    at User.save (user.js:19:9)
+    at api.js:57:13
+    at user.js:61:5
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:52:16
+    at /Users/swarosky44/NodeV/server/node_modules/async/lib/async.js:1209:30
+[2016-03-20 22:01:32.880] [INFO] app - POST /api/regis
+[2016-03-20 22:01:32.882] [ERROR] console - (node) warning: possible EventEmitter memory leak detected. 11 destroy listeners added. Use emitter.setMaxListeners() to increase limit.
+[2016-03-20 22:01:32.884] [ERROR] console - Trace
+    at [object Object].addListener (events.js:252:17)
+    at [object Object].once (events.js:278:8)
+    at [object Object].connectHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb/lib/server.js:279:19)
+    at [object Object].g (events.js:273:16)
+    at emitOne (events.js:90:13)
+    at [object Object].emit (events.js:182:7)
+    at /Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:492:23
+    at commandCallback (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:946:9)
+    at [object Object].Callbacks.emit (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:116:3)
+    at [object Object].messageHandler (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/topologies/server.js:289:23)
+    at Socket.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/mongodb-core/lib/connection/connection.js:285:22)
+    at emitOne (events.js:90:13)
+    at Socket.emit (events.js:182:7)
+    at readableAddChunk (_stream_readable.js:147:16)
+    at Socket.Readable.push (_stream_readable.js:111:10)
+    at TCP.onread (net.js:525:20)
+[2016-03-20 22:01:32.886] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:01:33.449] [INFO] app - POST /api/regis
+[2016-03-20 22:01:33.452] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:01:33.660] [INFO] app - POST /api/regis
+[2016-03-20 22:01:33.663] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:01:34.193] [INFO] app - POST /api/regis
+[2016-03-20 22:01:34.199] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:02:09.199] [INFO] console - undefined
+[2016-03-20 22:02:09.278] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:02:13.230] [INFO] console - come in
+[2016-03-20 22:02:13.251] [INFO] app - POST /api/regis
+[2016-03-20 22:02:13.261] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:03:27.027] [INFO] console - undefined
+[2016-03-20 22:03:27.109] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:03:30.249] [INFO] console - come in
+[2016-03-20 22:03:30.262] [INFO] app - POST /api/regis
+[2016-03-20 22:03:30.271] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:05:05.111] [INFO] console - come in
+[2016-03-20 22:05:05.122] [INFO] app - POST /api/regis
+[2016-03-20 22:06:08.185] [INFO] console - undefined
+[2016-03-20 22:06:08.349] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:06:10.604] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:05:05 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:06:10.632] [WARN] app - GET /api/logout
+[2016-03-20 22:06:21.961] [INFO] app - POST /api/regis
+[2016-03-20 22:06:33.677] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:06:21 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:06:33.681] [WARN] app - GET /api/logout
+[2016-03-20 22:06:37.226] [INFO] app - POST /api/login
+[2016-03-20 22:06:40.721] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:06:37 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:06:40.724] [WARN] app - GET /api/logout
+[2016-03-20 22:06:50.085] [INFO] app - POST /api/regis
+[2016-03-20 22:06:50.090] [ERROR] error - Error caught in uncaughtException event:Error: Can't set headers after they are sent.
+[2016-03-20 22:07:21.039] [INFO] console - undefined
+[2016-03-20 22:07:21.125] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:07:24.208] [INFO] console - undefined
+[2016-03-20 22:07:24.291] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:07:39.471] [INFO] app - POST /api/regis
+[2016-03-20 22:07:48.354] [INFO] app - POST /api/regis
+[2016-03-20 22:08:11.446] [INFO] app - POST /api/regis
+[2016-03-20 22:08:18.959] [INFO] app - POST /api/regis
+[2016-03-20 22:08:20.190] [INFO] app - POST /api/regis
+[2016-03-20 22:08:26.337] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:10:07.059] [INFO] app - POST /api/login
+[2016-03-20 22:14:11.423] [INFO] console - undefined
+[2016-03-20 22:14:11.515] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:14:23.819] [INFO] app - GET /api/ready
+[2016-03-20 22:14:25.709] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:14:28.802] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:14:25 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:14:28.819] [WARN] app - GET /api/logout
+[2016-03-20 22:14:35.215] [INFO] app - GET /api/ready
+[2016-03-20 22:14:37.069] [WARN] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:14:41.386] [INFO] app - POST /api/login
+[2016-03-20 22:14:43.762] [INFO] app - GET /api/ready
+[2016-03-20 22:14:46.782] [WARN] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:16:45.485] [WARN] app - GET /api/ready
+[2016-03-20 22:16:47.434] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:18:03.481] [WARN] app - GET /api/ready
+[2016-03-20 22:18:06.241] [WARN] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:18:21.179] [INFO] console - undefined
+[2016-03-20 22:18:21.299] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:18:21.944] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-20 22:18:21.957] [ERROR] app - GET /api/ready
+[2016-03-20 22:18:31.754] [INFO] console - undefined
+[2016-03-20 22:18:31.857] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:18:38.165] [INFO] console - undefined
+[2016-03-20 22:18:38.284] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:18:39.338] [INFO] console - { _id: '56eeae5d7ef85f0146350d7c',
+  name: 'dndc',
+  password: '123' }
+[2016-03-20 22:18:39.393] [INFO] app - GET /api/ready
+[2016-03-20 22:19:05.857] [INFO] console - { _id: '56eeae5d7ef85f0146350d7c',
+  name: 'dndc',
+  password: '123' }
+[2016-03-20 22:19:05.862] [WARN] app - GET /api/ready
+[2016-03-20 22:19:09.434] [ERROR] error - Error caught in uncaughtException event:TypeError: Cannot read property 'status' of undefined
+[2016-03-20 22:19:26.317] [INFO] console - { _id: '56eeae5d7ef85f0146350d7c',
+  name: 'dndc',
+  password: '123' }
+[2016-03-20 22:19:26.323] [WARN] app - GET /api/ready
+[2016-03-20 22:19:37.826] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:19:39.242] [INFO] console - undefined
+[2016-03-20 22:19:39.359] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-20 22:21:04.989] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:19:37 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:21:05.015] [WARN] app - GET /api/logout
+[2016-03-20 22:21:07.061] [INFO] app - GET /api/ready
+[2016-03-20 22:21:09.021] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:21:12.573] [INFO] app - POST /api/login
+[2016-03-20 22:31:15.142] [INFO] app - GET /api/ready
+[2016-03-20 22:31:17.058] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:31:24.057] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:31:17 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:31:24.060] [WARN] app - GET /api/logout
+[2016-03-20 22:31:26.298] [INFO] app - GET /api/ready
+[2016-03-20 22:31:28.101] [WARN] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:43:57.794] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:44:10.042] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:43:57 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:44:10.047] [WARN] app - GET /api/logout
+[2016-03-20 22:44:23.406] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:44:10 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:44:23.409] [WARN] app - GET /api/logout
+[2016-03-20 22:45:03.018] [WARN] app - GET /api/ready
+[2016-03-20 22:45:14.584] [INFO] app - POST /api/login
+[2016-03-20 22:45:23.541] [INFO] app - POST /api/login
+[2016-03-20 22:46:05.365] [INFO] app - POST /api/login
+[2016-03-20 22:46:10.376] [INFO] app - GET /api/ready
+[2016-03-20 22:46:12.627] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:46:10 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:46:12.630] [WARN] app - GET /api/logout
+[2016-03-20 22:46:56.239] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:46:12 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:46:56.241] [WARN] app - GET /api/logout
+[2016-03-20 22:48:54.982] [INFO] app - GET /api/ready
+[2016-03-20 22:49:02.634] [INFO] app - POST /api/login
+[2016-03-20 22:49:04.638] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 22:49:02 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 22:49:04.641] [WARN] app - GET /api/logout
+[2016-03-20 22:49:13.887] [INFO] app - POST /api/login
+[2016-03-20 22:55:42.212] [WARN] app - GET /api/user?username=qusiba
+[2016-03-20 22:55:45.714] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 22:56:05.530] [INFO] app - GET /api/ready
+[2016-03-20 22:56:07.657] [WARN] app - GET /api/starRepo?username=qusiba
