@@ -18,7 +18,7 @@ console.log(process.env.node_env)
 
 // 模板引擎
 app.set('views', path.join(__dirname, 'views'))
-app.set('view engine', 'jade')
+app.set('view engine', 'html')
 
 // 日志输出
 // app.use(logger('dev'));
@@ -47,7 +47,7 @@ app.use(session({
   key: settings.db,
   cookie: {maxAge: 1000*60*60*24},
   store: new MongoStore({
-    url: 'mongodb://localhost/NodeV'
+    url: 'mongodb://localhost:'+settings.port+'/NodeV'
   })
 }));
 

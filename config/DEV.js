@@ -1,10 +1,4 @@
 module.exports = {
-  server: 'http://172.26.141.121:9080/e4s-mp',
-  db: {
-    secret: 'abc123!!',
-    host: '127.0.0.1',
-    port: 6379
-  },
   log: {
     "appenders": [
       { "type": "console" },

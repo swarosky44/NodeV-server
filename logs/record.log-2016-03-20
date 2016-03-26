@@ -492,3 +492,21 @@
 [2016-03-20 22:55:45.714] [INFO] app - GET /api/starRepo?username=qusiba
 [2016-03-20 22:56:05.530] [INFO] app - GET /api/ready
 [2016-03-20 22:56:07.657] [WARN] app - GET /api/starRepo?username=qusiba
+[2016-03-20 23:13:09.658] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 23:13:31.781] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Mon Mar 21 2016 23:13:09 GMT+0800 (CST),
+     originalMaxAge: 86399998,
+     httpOnly: true },
+  user: null }
+[2016-03-20 23:13:31.784] [WARN] app - GET /api/logout
+[2016-03-20 23:13:47.244] [WARN] app - GET /api/user?username=qusiba
+[2016-03-20 23:13:58.220] [INFO] app - GET /api/ready
+[2016-03-20 23:14:01.284] [INFO] app - GET /api/starRepo?username=qusiba
+[2016-03-20 23:14:06.123] [INFO] app - POST /api/login
+[2016-03-20 23:14:14.783] [WARN] app - GET /api/user?username=qusiba
+[2016-03-20 23:14:19.083] [WARN] app - GET /api/starRepo?username=qusiba
+[2016-03-20 23:16:02.526] [INFO] app - GET /api/user?username=swarosky44
+[2016-03-20 23:16:05.700] [INFO] app - GET /api/starRepo?username=swarosky44
+[2016-03-20 23:16:46.431] [WARN] app - GET /api/starRepo?username=swarosky44

@@ -1,0 +1,53 @@
+[2016-03-26 23:33:40.785] [INFO] console - undefined
+[2016-03-26 23:33:40.894] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-26 23:33:52.236] [INFO] app - GET /
+[2016-03-26 23:33:52.280] [INFO] app - GET /static/app.6978f3d05df859dfde11391153d95fdd.css
+[2016-03-26 23:33:52.314] [INFO] app - GET /static/app.2aa00e70b69495d0956f.js
+[2016-03-26 23:33:52.537] [INFO] app - GET /favicon.ico
+[2016-03-26 23:34:03.047] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle [as handle_request] (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:97:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:312:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-26 23:34:03.070] [ERROR] app - POST /api/user
+[2016-03-26 23:45:00.334] [INFO] console - undefined
+[2016-03-26 23:45:00.414] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-26 23:45:13.205] [INFO] console - undefined
+[2016-03-26 23:45:13.292] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-26 23:45:31.517] [WARN] app - GET /
+[2016-03-26 23:45:31.553] [WARN] app - GET /static/app.6978f3d05df859dfde11391153d95fdd.css
+[2016-03-26 23:45:31.554] [WARN] app - GET /static/app.2aa00e70b69495d0956f.js
+[2016-03-26 23:45:37.489] [ERROR] console - ReferenceError: error is not defined
+    at app.js:73:13
+    at Layer.handle_error (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:310:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Layer.handle [as handle_request] (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/layer.js:97:5)
+    at trim_prefix (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:312:13)
+    at /Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:330:12)
+    at Immediate.next (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:271:10)
+    at Immediate.<anonymous> (/Users/swarosky44/NodeV/server/node_modules/express/lib/router/index.js:618:15)
+    at Immediate.immediate._onImmediate (timers.js:435:18)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)
+[2016-03-26 23:45:37.497] [ERROR] app - POST /api/user
+[2016-03-26 23:46:08.184] [INFO] console - undefined
+[2016-03-26 23:46:08.269] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-26 23:46:23.935] [INFO] console - undefined
+[2016-03-26 23:46:24.018] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-26 23:47:40.135] [INFO] console - undefined
+[2016-03-26 23:47:40.220] [INFO] console - listening http://127.0.0.1:3000
+[2016-03-26 23:47:42.174] [INFO] console - undefined
+[2016-03-26 23:47:42.253] [INFO] console - listening http://127.0.0.1:3000
